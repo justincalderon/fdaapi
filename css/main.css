@@ -1,0 +1,24 @@
+body {
+  margin: auto;
+}
+
+#header {
+  background-color: skyblue;
+  height: 20vh;
+  width: 100%;
+  color: white;
+}
+
+#searchSection {
+  height: 80vh;
+  color: black;
+  margin-top: 50px;
+}
+
+#searchBox {
+  margin-top: 20px;
+}
+
+#searchButton {
+
+}
